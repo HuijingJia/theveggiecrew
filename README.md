@@ -1,2 +1,1 @@
-# theveggiecrew
-This is a website build for the veggie crew, aiming to serve better vegan dish to all members.
+This website is dedicated to providing our members with delicious and innovative vegan dishes. Our mission is to inspire a love for plant-based cooking while ensuring that everyone enjoys healthy, flavorful meals
